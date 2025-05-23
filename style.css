@@ -29,7 +29,8 @@ body {
   height: 70px;
 }
 
-.navbar h2 { margin: 0; }
+.navbar h2 { margin: 0; 
+            color: black;}
 
 .navbar a {
   color: white;
